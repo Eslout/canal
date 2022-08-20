@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBBym9k.png" group-title="Canales Españoles", ETB 1 | HD
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBBym9k.png" group-title="Canales Españoles", ETB 2 | HD
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBBym9k.png" group-title="Canales Españoles", ETB 3 | SD
+https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
